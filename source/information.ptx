@@ -9,7 +9,7 @@
         <title>Instructor</title>
 
         <p>
-          Prof. Moynihan (he/him), HH 402D, <url href="mailto:mmoynihan5@framingham.edu">mmoynihan5@framingham.edu</url>. (508) 626-4728
+          Dr. Gentry (he/him), WL 204, <url href="mailto:cgentry@framingham.edu">centry@framingham.edu</url>. (508) 626-4682
         </p>
 
         <p>
@@ -18,16 +18,14 @@
       </li>
 
       <li>
-         <title>Student Help Hours</title>
+         <title>Office Hours</title>
 
           <p>
-            Mondays 10am-11am and Thursdays 1:30pm-3:30pm
+            M,W 10:30am-11:30am and Th 11:30-12:20
           </p>
 
           <p>
-            <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.
-            I'm also available by email and will respond within 24 hours, usually much sooner.
-            There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
+            <alert>Important</alert>: Please Signup via <url href="https://framingham.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/866523/schedule">Starfish</url> 
           </p>
       </li>
 
@@ -35,7 +33,7 @@
         <title>Class meets</title>
 
         <p>
-          MWRF 11:30am - 12:20pm in HH 405
+          MW 8:30am - 10:30am in G-07 (Whttemore Library)
         </p>
       </li>
 
@@ -43,24 +41,17 @@
         <title>Course Description</title>
 
         <p>
-          A thorough preparation in the skills and topics needed to study calculus.
-          After a review of polynomial and rational functions and their graphs, topics include inverse functions, exponential and logarithmic functions, and trigonometric functions.
+         An introduction to the hardware, software, and techniques involved with composing, editing and producing digital music. The primary goal is to gain a working facility and knowledge of fundamental technologies found within a modern music production environment such as digital audio workstation (DAW) software, file management, mixing techniques, sound editing, sequencing, sampling, sound design, and synthesis. Foremost is the creative application of these skills that result in original pieces of music, sound design environments, and emulated modular synthesizer design. 
         </p>
-      </li>
+      
 
       <li>
-        <title>Prerequisite</title>
+        <title>Required Text</title>
 
         <p>
-          Completion of MATH 123 Introduction to Functions with a minimum grade of C (2.00) or better, or a satisfactory score on the mathematics placement examination.
-        </p>
-      </li>
+         REAPER 7.44 User Guide
+         Other texts will be available in Canvas.
 
-      <li>
-        <title>Homework</title>
-
-        <p>
-          All homework will appear in <url href="https://www.myopenmath.com/">MyOpenMath</url>.
         </p>
 
       </li>
