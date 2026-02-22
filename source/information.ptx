@@ -60,33 +60,56 @@
         <title>Software</title>
 
         <p>
-          <pubtitle>REAPER [Digital Audio Workstation] </pubtitle>
-          by Cockos (Version 7.44). <url href="https://www.reaper.fm/download.php" visual="openstax/precalculus">Download here</url>
+          <pubtitle>REAPER (Digital Audio Workstation) </pubtitle>
+          by Cockos (Version 7.44). <url href="https://www.reaper.fm/download.php" > Download here </url>
          </p>
          <p>
-          <pubtitle>Komplete Start [Digital Audio Workstation] </pubtitle>
-          by Cockos (Version 7.44). <url href="https://www.reaper.fm/download.php" visual="openstax/precalculus">Download here</url>
+          <pubtitle> Komplete Start [Kontakt Software Instruments] </pubtitle>
+          by Native Instruments. <url href="◦	https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/	" > Download here</url>
         </p>
-        <blockquote>
-          <title>Reading Mathematics</title>
-          <p>
-            <q>
-              Don’t just read it; fight it!
-              Ask your own questions, look for your own examples, discover your own proofs.
-              Is the hypothesis necessary?
-              Is the converse true?
-              What happens in the classical special case?
-              What about the degenerate cases?
-              Where does the proof use the hypothesis?
-            </q>
-          </p>
-
-          <attribution><url href="https://en.wikipedia.org/wiki/Paul_Halmos" visual="wikipedia/Paul_Halmos">Paul Halmos</url></attribution>
-        </blockquote>
+        <p>
+          <pubtitle> VCV Rack 2 Free(Virtual Eurorack DAW) </pubtitle> <url href="https://vcvrack.com/Rack" > Download here</url>
+        </p>
       </li>
- 
-    </dl>
-  </p>
+      <li>
+          <title>Equipment</title>
+        <p>
+          Computer (PC or Mac) with the following mimimum specs.
+        </p>
+          <p>
+          <ul>
+            <li>
+              <p>
+              Operating system: MacOS 10.7+, Windows 7+, or Linux (such as Ubuntu 16.04+)
+              </p>
+            </li>
+            <li>
+              <p>
+                CPU: Intel/AMD 64-bit processor from ~2011 or later.
+              </p>
+            </li>
+            <li>
+              <p>
+                Graphics: Dedicated graphics card from ~2013 or later with the latest driver software update: Nvidia drivers. AMD drivers. Intel drivers. 
+              </p>
+            </li>
+            <li>
+              <p>
+                The macOS and hardware that utilize the M1 chip should work with most software as well. 
+              </p>
+            </li>
+            <li>
+              <p>
+                RAM: 32 GB.
+              </p>
+            </li>
+             <li>
+              <p>
+                Disk space: 100GB.
+              </p>
+              <p>
+                Prepare for assessments successfully.
+Make sure you test yourself before I do!
 
 
 </section>
