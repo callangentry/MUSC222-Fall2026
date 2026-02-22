@@ -49,7 +49,9 @@
       <li>
         <title>Texts </title>
         <p>
-        REAPER 7.44 User Guide
+        REAPER 7.44 User Guide , Download <url href="https://dlz.reaper.fm/userguide/ReaperUserGuide761.pdf" > Here <url/>
+       </p>
+        <p> 
         Other texts will be available in Canvas.
         </p>
       </li>
@@ -58,10 +60,13 @@
         <title>Software</title>
 
         <p>
-          <pubtitle>REAPER (Digital Audio Workstation) </pubtitle>
+          <pubtitle>REAPER [Digital Audio Workstation] </pubtitle>
+          by Cockos (Version 7.44). <url href="https://www.reaper.fm/download.php" visual="openstax/precalculus">Download here</url>
+         </p>
+         <p>
+          <pubtitle>Komplete Start [Digital Audio Workstation] </pubtitle>
           by Cockos (Version 7.44). <url href="https://www.reaper.fm/download.php" visual="openstax/precalculus">Download here</url>
         </p>
-
         <blockquote>
           <title>Reading Mathematics</title>
           <p>
