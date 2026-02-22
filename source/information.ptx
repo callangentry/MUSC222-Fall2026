@@ -47,24 +47,19 @@
       
 
       <li>
-        <title>Required Text</title>
-
+        <title>Texts </title>
         <p>
-         •	REAPER 7.44 User Guide
-         Other texts will be available in Canvas.
-
+        REAPER 7.44 User Guide
+        Other texts will be available in Canvas.
         </p>
-
       </li>
 
-
-
       <li>
-        <title>Textbook</title>
+        <title>Software</title>
 
         <p>
-          <pubtitle>Precalculus</pubtitle>
-          by OpenStax (2nd edition). <url href="https://openstax.org/details/books/precalculus-2e" visual="openstax/precalculus">Read Online</url>
+          <pubtitle>REAPER (Digital Audio Workstation) </pubtitle>
+          by Cockos (Version 7.44). <url href="https://www.reaper.fm/download.php" visual="openstax/precalculus">Download here</url>
         </p>
 
         <blockquote>
