@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude"> 
   <title>Course Information</title>
 
   <p>
@@ -107,16 +107,18 @@
               <p>
                 Disk space: 100GB.
               </p>
+            </li>
+            <li> 
+              <title>Storage</title>
+            
               <p>
-                Prepare for assessments successfully.
-Make sure you test yourself before I do!
-  </p>
+               Since you will be using a shared space for the class it is important that  you have an external thumb drive OR cloud storage where you are keeping track of your projects.
+              </p>
       </li>
           </ul>
   </p>
       </li>
     </dl>
   </p>
-
-
+            
 </section>
