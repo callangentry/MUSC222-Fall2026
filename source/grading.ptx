@@ -3,48 +3,114 @@
 <section xml:id="Grading">
 
   <title>Grading</title>
-  
-   <subsection>
-      <title>Homework</title>
-
-
+  <subsection>
+      <title>Final Grades</title>
 
       <p>
-        Homework is your opportunity to practice with feedback.
-        I expect that you work on the homework frequently.
-        Do not expect to complete assignments in a single sitting.
-      </p>
-
-      <p>
-        There are many outside resources (some good/bad and some ethnical/unethical) for completing math homework.
-        You should work on the homework in a way that prepares you for exams.
-        Our brains do not retain information that we do not work for.
-      </p>
-
-      <p>
-        To register for <url href="https://www.myopenmath.com/" visual="myopenmath">MyOpenMath</url>, you will need the following.
-
-          <dl>
-            <li>
-              <title>Course Name:</title>
-
-              <p>MATH 180 Precalculus - Spring 2026 - FSU</p>
-            </li>
-
-            <li>
-              <title>Course ID:</title>
-
-              <p>304914</p>
-            </li>
-
-           <li>
-            <title>Enrollment Key:</title>
-            
-            <p>moynihan180002S26</p>
-          </li>
-        </dl>
+        The following percentage weights are used for calculating your weighted course average.
       </p>
     
+      <tabular halign="right">
+        <row header="yes" bottom="minor" >
+          <cell>Category</cell>
+          <cell>Weight</cell>
+        </row>
+        <row>
+          <cell>Listening Responses</cell>
+          <cell>12%</cell>
+        </row>
+        <row>
+          <cell>In-Class Activities</cell>
+          <cell>10%</cell>
+        </row>
+        <row>
+          <cell>Assignments</cell>
+          <cell>20%</cell>
+        </row>
+        <row>
+          <cell>Projects</cell>
+          <cell>38%%</cell>
+        </row>
+         <row>
+          <cell>Final Composition</cell>
+          <cell>20%</cell>
+        </row>
+      </tabular>
+
+
+      <p>
+        Final grades will be assigned based on the following scale.
+        Students needing to take MATH 219 Calculus I are required to earn a C (2.00) or better in MATH 180 Precalculus.
+      </p>
+
+      <tabular halign="center">
+        <row header="yes" bottom="minor" >
+          <cell>Percentage</cell>
+          <cell>Grade</cell>
+        </row>
+        <row>
+          <cell>93-100</cell>
+          <cell>A</cell>
+        </row>
+        <row>
+          <cell>90-93</cell>
+          <cell>A-</cell>
+        </row>
+        <row>
+          <cell>87-90</cell>
+          <cell>B+</cell>
+        </row>
+        <row>
+          <cell>83-87</cell>
+          <cell>B</cell>
+        </row>
+        <row>
+          <cell>80-83</cell>
+          <cell>B-</cell>
+        </row>
+        <row>
+          <cell>77-80</cell>
+          <cell>C+</cell>
+        </row>
+        <row>
+          <cell>73-77</cell>
+          <cell>C</cell>
+        </row>
+        <row>
+          <cell>70-73</cell>
+          <cell>C-</cell>
+        </row>
+        <row>
+          <cell>67-70</cell>
+          <cell>D+</cell>
+        </row>
+        <row>
+          <cell>63-67</cell>
+          <cell>D</cell>
+        </row>
+        <row>
+          <cell>60-63</cell>
+          <cell>D-</cell>
+        </row>
+        <row>
+          <cell>Below 60</cell>
+          <cell>F</cell>
+        </row>
+      </tabular>
+
+    </subsection>
+  
+   <subsection>
+      <title>Listening Responses</title>
+
+
+
+      <p>
+       These are designed to help you develop a critical ear for the familiar music that 
+       surrounds you and (perhaps) unfamiliar music you encounter in class.
+      </p>
+
+      
 
     </subsection>
 
@@ -136,98 +202,7 @@
 
 
 
-    <subsection>
-      <title>Final Grades</title>
-
-      <p>
-        The following percentage weights are used for calculating your weighted course average.
-      </p>
     
-      <tabular halign="right">
-        <row header="yes" bottom="minor" >
-          <cell>Category</cell>
-          <cell>Weight</cell>
-        </row>
-        <row>
-          <cell>Homework</cell>
-          <cell>10%</cell>
-        </row>
-        <row>
-          <cell>Course Objectives</cell>
-          <cell>50%</cell>
-        </row>
-        <row>
-          <cell>Midterm Exam</cell>
-          <cell>15%</cell>
-        </row>
-        <row>
-          <cell>Final Exam</cell>
-          <cell>25%</cell>
-        </row>
-      </tabular>
-
-
-      <p>
-        Final grades will be assigned based on the following scale.
-        Students needing to take MATH 219 Calculus I are required to earn a C (2.00) or better in MATH 180 Precalculus.
-      </p>
-
-      <tabular halign="center">
-        <row header="yes" bottom="minor" >
-          <cell>Percentage</cell>
-          <cell>Grade</cell>
-        </row>
-        <row>
-          <cell>93-100</cell>
-          <cell>A</cell>
-        </row>
-        <row>
-          <cell>90-93</cell>
-          <cell>A-</cell>
-        </row>
-        <row>
-          <cell>87-90</cell>
-          <cell>B+</cell>
-        </row>
-        <row>
-          <cell>83-87</cell>
-          <cell>B</cell>
-        </row>
-        <row>
-          <cell>80-83</cell>
-          <cell>B-</cell>
-        </row>
-        <row>
-          <cell>77-80</cell>
-          <cell>C+</cell>
-        </row>
-        <row>
-          <cell>73-77</cell>
-          <cell>C</cell>
-        </row>
-        <row>
-          <cell>70-73</cell>
-          <cell>C-</cell>
-        </row>
-        <row>
-          <cell>67-70</cell>
-          <cell>D+</cell>
-        </row>
-        <row>
-          <cell>63-67</cell>
-          <cell>D</cell>
-        </row>
-        <row>
-          <cell>60-63</cell>
-          <cell>D-</cell>
-        </row>
-        <row>
-          <cell>Below 60</cell>
-          <cell>F</cell>
-        </row>
-      </tabular>
-
-    </subsection>
 
 
   </section>
