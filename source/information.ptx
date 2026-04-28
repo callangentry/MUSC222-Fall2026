@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
-
   <p>
     <dl>
       <li>
         <title>Instructor</title>
-
         <p>
-          Dr. Gentry (he/him), WL 204, <url href="mailto:cgentry@framingham.edu">centry@framingham.edu</url>. (508) 626-4682
+         Dr. Gentry (he/him), WL 204, <url href="mailto:cgentry@framingham.edu">centry@framingham.edu</url>. (508) 626-4682
         </p>
 
         <p>
           (I try to respond within 24 hours, Monday-Friday.)
         </p>
-      </li>
+     </li>
 
       <li>
-         <title>Office Hours</title>
+        <title>Office Hours</title>
 
-          <p>
-            M,W 10:30am-11:30am and Th 11:30-12:20
-          </p>
+        <p>
+          M,W 10:30am-11:30am and Th 11:30-12:20
+        </p>
 
-          <p>
-            <alert>Important</alert>: Please Signup via <url href="https://framingham.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/866523/schedule">Starfish</url> 
-          </p>
+        <p>
+          <alert>Important</alert>: Please Signup via <url href="https://framingham.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/866523/schedule">Starfish</url> 
+        </p>
       </li>
 
       <li>
@@ -37,87 +35,80 @@
         </p>
       </li>
 
-      <li>
-        <title>Course Description</title>
+        <li>
+      <title>Course Description</title>
 
-        <p>
-         An introduction to the hardware, software, and techniques involved with composing, editing and producing digital music. The primary goal is to gain a working facility and knowledge of fundamental technologies found within a modern music production environment such as digital audio workstation (DAW) software, file management, mixing techniques, sound editing, sequencing, sampling, sound design, and synthesis. Foremost is the creative application of these skills that result in original pieces of music, sound design environments, and emulated modular synthesizer design. 
-        </p>
+      <p>
+        An introduction to the hardware, software, and techniques involved with composing, editing and producing digital music. The primary goal is to gain a working facility and knowledge of fundamental technologies found within a modern music production environment such as digital audio workstation (DAW) software, file management, mixing techniques, sound editing, sequencing, sampling, sound design, and synthesis. Foremost is the creative application of these skills that result in original pieces of music, sound design environments, and emulated modular synthesizer design. 
+      </p>
       </li>
       
 
       <li>
-        <title>Texts </title>
-        <p>
-        REAPER 7.61 User Guide , Download <url href="https://dlz.reaper.fm/userguide/ReaperUserGuide761.pdf" > Here </url>
-       </p>
-        <p> 
-        Other texts will be available in Canvas.
-        </p>
+      <title>Texts </title>
+      <p>
+      REAPER 7.61 User Guide , Download <url href="https://dlz.reaper.fm/userguide/ReaperUserGuide761.pdf" > Here </url>
+      </p>
+      <p> 
+      Other texts will be available in Canvas.
+      </p>
       </li>
 
-      <li>
-        <title>Software</title>
+     <li>
+      <title>Software</title>
 
-        <p>
-          <pubtitle>REAPER (Digital Audio Workstation) </pubtitle>
-          by Cockos (Version 7.61). <url href="https://www.reaper.fm/download.php" > Download here </url>
-         </p>
-         <p>
-          <pubtitle> Komplete Start [Kontakt Software Instruments] </pubtitle>
-          by Native Instruments. <url href="◦	https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/	" > Download here</url>
-        </p>
-        <p>
+      <p>
+        <pubtitle>REAPER (Digital Audio Workstation) </pubtitle>
+        by Cockos (Version 7.61). <url href="https://www.reaper.fm/download.php" > Download here </url>
+      </p>
+      <p>
+        <pubtitle> Komplete Start [Kontakt Software Instruments] </pubtitle>
+        by Native Instruments. <url href="◦	https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/	" > Download here</url>
+      </p>
+      <p>
           <pubtitle> VCV Rack 2 Free(Virtual Eurorack DAW) </pubtitle> <url href="https://vcvrack.com/Rack" > Download here</url>
         </p>
       </li>
       <li>
-          <title>Equipment</title>
+        <title>Equipment</title>
         <p>
           Computer (PC or Mac) with the following mimimum specs.
         </p>
+        <p>  
+         Operating system: MacOS 10.7+, Windows 7+, or Linux (such as Ubuntu 16.04+)
+        </p>
+        <p>
+         CPU: Intel/AMD 64-bit processor from ~2011 or later.
+        </p> 
+      </li>
+      <!-- 
+      <li>
+        <p>
+         Graphics: Dedicated graphics card from ~2013 or later with the latest driver software update: Nvidia drivers. AMD drivers. Intel drivers. 
+        </p>
+      </li>
+
+      <li>
+        <p>
+          The macOS and hardware that utilize the M1 chip should work with most software as well. 
+        </p>
+      </li>
+
+      <li>
           <p>
-          <ul>
-            <li>
-              <p>
-              Operating system: MacOS 10.7+, Windows 7+, or Linux (such as Ubuntu 16.04+)
-              </p>
-         </li>
-            <li>
-              <p>
-                CPU: Intel/AMD 64-bit processor from ~2011 or later.
-              </p>
-            </li>
-            <li>
-              <p>
-                Graphics: Dedicated graphics card from ~2013 or later with the latest driver software update: Nvidia drivers. AMD drivers. Intel drivers. 
-              </p>
-            </li>
-            <li>
-              <p>
-                The macOS and hardware that utilize the M1 chip should work with most software as well. 
-              </p>
-            </li>
-            <li>
-              <p>
-                RAM: 32 GB.
-              </p>
-            </li>
-             <li>
-              <p>
-                Disk space: 100GB.
-              </p>
-            </li>
-            <li> 
-          <title>Storage</title>
-             <p>
-               Since you will be using a shared space for the class it is important that  you have an external thumb drive OR cloud storage where you are keeping track of your projects.
-              </p>
+            RAM: 32 GB.
+          </p>
       </li>
-          </ul>
-  </p>
+
+      <li>
+        <p>
+          Disk space: 100GB.
+        </p>
       </li>
+      -->
+    
+         
     </dl>
-  </p>
-            
-</section>
+  </p>   
+
+</section>   
