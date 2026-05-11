@@ -9,157 +9,101 @@
     </p>
   </introduction>
 
-    <subsection>
+  <subsection>
     <title>Attendance</title>
 
     <p>
-      Regular attendance is an expectation for all students in this course because attendance is important for learning the material.
-      But attendance means more than simply physical presence.
-      It also requires mental presence.
-      Attend every class awake, on time, and ready to learn with cell phones and all other electronic devices off and out of sight.
+      You must always attend class and ON TIME since that is when most of the listening, analysis,
+      and work is happening. If your absence and/or tardiness is due to illness or other personal
+      reasons you must email me prior to class or within 24 hours after class.
     </p>
-    
+
+    <tabular halign="left">
+      <row header="yes" bottom="minor">
+        <cell>Number of Absences</cell>
+        <cell>Point Deduction</cell>
+      </row>
+      <row>
+        <cell>After two unexcused absences</cell>
+        <cell>.50 point deduction from final grade per subsequent unexcused absence</cell>
+      </row>
+      <row>
+        <cell>After three unexcused tardies</cell>
+        <cell>.25 point deduction from final grade per subsequent unexcused tardy</cell>
+      </row>
+    </tabular>
+
+  </subsection>
+
+
+  <subsection>
+    <title>Late Work</title>
+
     <p>
-      There is no attendance grade.
-      I expect you to take care of yourself and those around you.
-      IF YOU ARE ILL, YOU SHOULD NOT ATTEND CLASS.
-      Otherwise, I expect to see you in class.
+      All assignments must be handed in on time.
+      You cannot move on to the next assignment until you've handed in previous assignments.
+      They CANNOT be handed in late.
+      Otherwise, they serve no purpose.
+      Late work for assignments can ONLY be accepted given the following criteria:
+      <ol>
+        <li><p>Emergency situation that keeps you from handing it in, or</p></li>
+        <li><p>You've made substantial progress but just need a little more time to finish it up.</p></li>
+      </ol>
+      All of this must be communicated to me ASAP.
+    </p>
+
+  </subsection>
+
+
+
+
+
+
+
+  <subsection>
+    <title>Course Expectations</title>
+
+    <p>
+      You must always attend class and ON TIME since that is when most of the work and tutorials
+      are happening.
+      You will not succeed in this class if you do not attend.
+      You will bring your own pair of non-Bluetooth headphones AND a thumb-drive (or have access
+      to an online cloud storage space).
+      All assignments can be improved but only if they are handed in on time so you can receive
+      proper feedback.
+      No phones in class time.
     </p>
 
   </subsection>
 
 
   <subsection>
-    <title>Late work</title>
-    <p>
-      Make-up exams should be a rare occurrence reserved for illness and/or emergencies.
-      Requests will be considered on a case-by-case basis and are not guaranteed.
-      In particular, I will consider recent attendance and recent homework to see if you have been participating in the course.
-    </p>
-    
-    <p>
-      Everyone will be given 4 late passes to extend homework due dates for full credit!
-      However, you can only extend a due date by one week.
-      This is to make sure you do not fall too far behind and to make sure we are all ready to participate in class.
-    </p>
-  </subsection>
-
-
-
-  <subsection>
-    <title>My Expectations</title>
-        <p>
-          <ul>
-            <li>
-              <p>
-                Show an attitude of respect toward everyone in the classroom.
-                Racist, sexist, antisemitic, Islamophobic, or pornographic content is never allowed.
-              </p>
-            </li>
-            <li>
-              <p>
-                Read all covered sections of the textbook.
-                Reading is absolutely crucial to learning mathematics.
-              </p>
-            </li>
-            <li>
-              <p>
-                Complete homework assignments carefully, thoughtfully, and on time.
-              </p>
-            </li>
-            <li>
-              <p>
-                Prepare for assessments successfully.
-Make sure you test yourself before I do!
-              </p>
-            </li>
-            <li>
-              <p>
-                Attend help sessions and form study groups for extra help.
-              </p>
-            </li>
-            <li>
-              <p>
-                For each credit hour spend at least two hours working on the material outside of class.
-                For us that means at least eight hours of work per week outside of class.
-              </p>
-            </li>
-          </ul>
-        </p>
-  </subsection>
-
-
-
- 
-  
-  <subsection>
-    <title>Academic Integrity</title>
+    <title>Academic Honesty and Generative AI</title>
 
     <p>
       Integrity is essential to academic life.
       Consequently, students who enroll at Framingham State University agree to maintain high standards of academic honesty and scholarly practice.
       They shall be responsible for familiarizing themselves with the published policies and procedures regarding academic honesty.
-      Common infractions of the Policy on Academic Honesty in mathematics courses include, but are not limited to:
-
-      <ul>
-        <li>
-          <p>
-            Plagiarism: claiming as one's own work the published or unpublished literal or paraphrased work of another.
-            It should be recognized that plagiarism is not only academically dishonest but also illegal;
-            <!-- (Proofs are writing! Using someone else's proof without proper citation is plagiarism!) -->
-          </p>
-        </li>
-        
-        <li>
-          <p>
-            Use of dishonest procedures in computer, laboratory, studio, or field work;
-          </p>
-        </li>
-        
-        <li>
-          <p>
-            Cheating on exams, tests, quizzes, assignments, and papers, including the giving or acceptance of these materials and other sources of information without the permission of the instructor(s);
-          </p>
-        </li>
-        
-        <li>
-          <p>
-            Unauthorized collaboration with other individuals in the preparation of course assignments;
-          </p>
-        </li>
-        
-      </ul>
+      See <url href="https://www.framingham.edu/academics/academic-honesty" visual="Academic Honesty Policy">Academic Honesty Policy here</url>.
     </p>
-  </subsection>
-
-
-  <subsection>
-    <title>Generative AI</title>
 
     <p>
-      <!--
-      Use of AI in proof writing is prohibited.
-      All proofs are writing assignments and should be done on your own.
-      Also, LLM's are good at producing nonsense that sounds rational.
-      They are bad at producing actual proofs.
-      -->
-      Use of Generative AI is prohibited because this emerging technology cannot do mathematics.
-      It can only mimic mathematics and lead learners astray.
-      The idea of optimized frictionless learning is a myth.
-      I expect that at times you will get stuck.
-      That is the goal!
-      Quickly turning to GenAI will not prepare you for exams.
+      Generative AI only creates text and music from the pre-existing work of other humans.
+      Since this course centers around your personal development of creative and listening skills,
+      using chatbots will serve no purpose.
+      Simply put, a bot cannot do the work for you.
+      If I suspect any Generative AI mischief (especially with the Listening Responses), I will give
+      you an opportunity to rewrite; otherwise, you will receive a zero and may be subject to academic discipline.
     </p>
   </subsection>
 
   <subsection>
-    <title>Antiracism at FSU</title>
+    <title>My Commitment to Cultivate an Antiracist Classroom</title>
 
-  
     <p>
       At Framingham State University, faculty, staff, and students work together to sustain a learning, working, and living community free from hate, discrimination, harassment, and intolerance.
-      We recognize the damaging effects of systemic racism - including policies, structures, and historic practices - on the experience and success of communities of color.
-      Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work.  
+      We recognize the damaging effects of systemic racism — including policies, structures, and historic practices — on the experience and success of communities of color.
+      Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work.
     </p>
 
     <p>
@@ -194,13 +138,49 @@ Make sure you test yourself before I do!
 
 
   <subsection>
-    <title>Syllabus Changes</title>
+    <title>Accommodation Statement for Special Needs Students</title>
 
     <p>
-      The instructor reserves the right to make changes to this syllabus.
-      Any changes will be announced to the class in a timely manner.
+      Framingham State University offers equal opportunities to all qualified students, including those
+      with disabilities and impairments.
+      The University is committed to making reasonable accommodations as are necessary to ensure that
+      its programs and activities do not discriminate, or have the effect of discriminating, on the basis of disability.
+      Academic Support serves students with learning and psychiatric disabilities as well as students
+      with visual, mobility and hearing impairments.
+      For further information about this, please visit the website at:
+      <url href="https://www.framingham.edu/academics/academic-success/center-academic-success-and-achievement" visual="Center for Academic Success and Achievement">Center for Academic Success and Achievement</url>.
     </p>
-  
+
+  </subsection>
+
+
+  <subsection>
+    <title>Copyright Disclaimer</title>
+
+    <p>
+      This course website may contain copyrighted materials that are used in compliance with U.S. Copyright Law.
+      Under that law, materials may not be saved to your computer, revised, copied, or distributed without permission.
+      They are to be used in support of instructional activity as part of this course only and shall be limited
+      to the duration of the course, unless otherwise specified by the instructor or owner of the material.
+      You may only download or print materials at the direction of your instructor who knows which materials
+      are copyrighted and which are not.
+    </p>
+
+  </subsection>
+
+
+  <subsection>
+    <title>Caveat</title>
+
+    <p>
+      Please note that the syllabus is subject to change at any time.
+      This is a rough estimation of all the material we will cover throughout the class.
+      There is too much music to get through and history to travel while simultaneously responding
+      to the needs and interests of the class that it is irrational to expect that the following
+      course calendar will be followed exactly.
+      I will make sure that any changes to the syllabus will be adjusted and shared.
+    </p>
+
   </subsection>
 
 </section>
