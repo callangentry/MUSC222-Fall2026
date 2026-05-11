@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="calendar">
+  <title>Content Calendar</title>
+
+  <p>
+    This is an approximate overview of the length of each unit with the due dates for each exercise and project.
+  </p>
+
+  <subsection xml:id="unit-1">
+    <title>Unit 1: Introduction to Sound, Music Technology History, the DAW, Audio Editing, and Compositional Techniques (Jan 21–Feb 13)</title>
+
+    <dl width="wide">
+      <li>
+        <title>Thu, Jan 30</title>
+        <p>Listening Response 1 Due</p>
+      </li>
+      <li>
+        <title>Sun, Feb 2</title>
+        <p>In-Class Activity 1 Due</p>
+      </li>
+      <li>
+        <title>Tue, Feb 4</title>
+        <p>Assignment 1: Introduction to the DAW Due</p>
+      </li>
+      <li>
+        <title>Tue, Feb 4</title>
+        <p>In-Class Activity 2 Due</p>
+      </li>
+      <li>
+        <title>Mon, Feb 10</title>
+        <p>Assignment 2: Importing Audio and Generating Ideas Due</p>
+      </li>
+      <li>
+        <title>Thu, Feb 20</title>
+        <p>Project 1: Sound Collage Due</p>
+      </li>
+    </dl>
+  </subsection>
+
+  <subsection xml:id="unit-2">
+    <title>Unit 2: MIDI, Sequencing, Software Instruments, and Mixing (Feb 18–Mar 13)</title>
+
+    <dl width="wide">
+      <li>
+        <title>Wed, Feb 18</title>
+        <p>LISTENING DAY (WL 201)</p>
+      </li>
+      <li>
+        <title>Fri, Feb 28</title>
+        <p>Listening Response 2 Due</p>
+      </li>
+      <li>
+        <title>Fri, Feb 28</title>
+        <p>Assignment 3: Introduction to MIDI and Setting up the DAW Due</p>
+      </li>
+      <li>
+        <title>Thu, Mar 6</title>
+        <p>Assignment 4: Sampler from Scratch Due</p>
+      </li>
+      <li>
+        <title>Mar (TBD)</title>
+        <p>In-Class Activity 4</p>
+      </li>
+      <li>
+        <title>Thu, Mar 13</title>
+        <p>Project 2: POP!! Due</p>
+      </li>
+    </dl>
+  </subsection>
+
+  <subsection xml:id="unit-3">
+    <title>Unit 3: Synthesis, Signal Chain, and Modular Patching (Mar 23–Apr 17)</title>
+
+    <dl width="wide">
+      <li>
+        <title>Sun, Mar 23</title>
+        <p>LISTENING DAY (WL 201)</p>
+      </li>
+      <li>
+        <title>Thu, Mar 27</title>
+        <p>Listening Response 3 Due</p>
+      </li>
+      <li>
+        <title>Thu, Apr 3</title>
+        <p>Assignment 5: Building a Basic Patch from Scratch Due</p>
+      </li>
+      <li>
+        <title>Tue, Apr 8</title>
+        <p>In-Class Activity 5</p>
+      </li>
+      <li>
+        <title>Thu, Apr 10</title>
+        <p>Assignment 6: My First Sequencer Due</p>
+      </li>
+      <li>
+        <title>Mon, Apr 21</title>
+        <p>Project 3: Patchtastic Due</p>
+      </li>
+    </dl>
+  </subsection>
+
+  <subsection xml:id="unit-4">
+    <title>Unit 4: Putting it All Together (Apr 20–end of term)</title>
+
+    <dl width="wide">
+      <li>
+        <title>Wed, Apr 22</title>
+        <p>LISTENING DAY (WL 201)</p>
+      </li>
+      <li>
+        <title>TBD</title>
+        <p>Assignment 7: Individual Conferences with Rough Draft</p>
+      </li>
+      <li>
+        <title>Tue, May 12, 9–11am</title>
+        <p>Final Project: Music Composition</p>
+      </li>
+    </dl>
+  </subsection>
+
+</section>

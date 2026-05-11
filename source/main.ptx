@@ -21,7 +21,7 @@
 
     <xi:include href="./FAQ.ptx"/>
 
-    <xi:include href="./dates.ptx"/>
+    <xi:include href="./calendar.ptx"/>
 
   </article>
 
