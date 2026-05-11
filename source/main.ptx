@@ -21,7 +21,8 @@
 
     <xi:include href="./FAQ.ptx"/>
 
-    <xi:include href="./calendar.ptx"/>
+    <xi:include href="./calendar.ptx" xpointer="xpointer(/pretext/*)"/>
+
 
   </article>
 
